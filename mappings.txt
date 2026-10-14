@@ -1,0 +1,5 @@
+C2S:
+a=o, c=e, e=u, f=p, h=f, i=a, j=v, l=l, m=g, n=b, o=w, p=r, q=m, r=h, s=c, t=x, u=s, v=n, w=i, x=d, y=y, z=t
+
+S2C:
+a=h, b=w, c=l, d=a, e=p, f=e, g=t, h=i, i=x, j=m, k=b, l=q, m=f, n=u, p=y, q=n, r=c, s=r, t=g, u=v, x=o, y=d, z=s
